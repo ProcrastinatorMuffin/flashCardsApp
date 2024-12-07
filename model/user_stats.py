@@ -1,4 +1,4 @@
-class Stats:
+class UserStats:
     def __init__(self, flashcards):
         self.flashcards = flashcards
 

@@ -1,0 +1,5 @@
+What is the capital of France?|Paris|2
+What is the largest planet in our solar system?|Jupiter|1
+Who wrote 'To Kill a Mockingbird'?|Harper Lee|3
+What is the chemical symbol for water?|H2O|0
+What year did the Titanic sink?|1912|1
